@@ -1,5 +1,6 @@
 # BulletGame
 
+![Screenshot 2023-09-28 214320](https://github.com/Mayank-Garg7/BulletGame/assets/113042462/de0adb44-a851-40b1-813e-cc6c00eebb14)
 
 This is a simple implementation of the classic game "Space Invaders" using HTML, CSS, and JavaScript.
 
@@ -32,6 +33,8 @@ To run the game, follow these steps:
 - Press the **spacebar** to fire bullets at the enemies.
 - Your goal is to eliminate all the enemy spaceships and asteroids without letting them reach the bottom of the screen.
 - If an enemy spaceship or asteroid collides with your spaceship, you lose the game. You can restart the game by refreshing the page.
+  
+![Screenshot 2023-09-28 214423](https://github.com/Mayank-Garg7/BulletGame/assets/113042462/5e81e7a1-db07-4fa3-bec4-c17822c6680f)
 
 ## Contributing
 
